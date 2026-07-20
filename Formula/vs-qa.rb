@@ -1,9 +1,9 @@
 class VsQa < Formula
   desc "VS QA tool"
   homepage "https://github.com/VladislavSumin/vs-qa"
-  url "https://github.com/VladislavSumin/vs-qa/releases/download/v0.41.0/vs-qa-min.jar"
-  sha256 "b2dc5a99a09a8c827619b59ce1edb390587bf7bc84e1c6789adc10a96d18f21e"
-  version "0.41.0"
+  url "https://github.com/VladislavSumin/vs-qa/releases/download/v0.42.0/vs-qa-min.jar"
+  sha256 "420edaea381b2ce157b874e0b2fbf122719109bfce69022f0a2f262573b7bebf"
+  version "0.42.0"
 
   depends_on "openjdk@21"
 
